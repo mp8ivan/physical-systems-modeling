@@ -10,7 +10,7 @@ This directory contains Python scripts dedicated to processing astronomical data
 * **Satellite dynamics (`satellite_orbit_dynamics.py`):** numerical simulation modeling the orbital trajectory and stability of a satellite under planetary gravitational constraints.
 
 ## Technical stack
-* **Python 3**
+* **Python 3**.
 * **Astropy:** FITS file handling and astronomical data structuring.
 * **SciPy:** Numerical interpolation and scientific computing.
 * **NumPy & Matplotlib:** Matrix manipulation and data visualization.
