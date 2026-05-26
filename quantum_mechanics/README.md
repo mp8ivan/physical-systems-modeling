@@ -4,7 +4,7 @@ This directory highlights computational approaches to solving complex quantum me
 
 ## Key contents
 
-* **Quantum state evolution (`quantum_state_evolution_1d_*.py`):** algorithmic simulation modeling the time evolution of different initial wave functions. Implements sparse matrix representations to optimize memory and processing speed for large-scale calculations.
+* **Quantum state evolution (`quantum_state_evolution_1d_*.py`):** algorithmic simulation modeling the time evolution of different initial wave functions with a harmonic potential and with an infinite potential well. Implements sparse matrix representations to optimize memory and processing speed for large-scale calculations.
 * **Analytical vs numerical models (`numerical_vs_analytical_quantum_*.py`):** a robust comparison script validating numerical approximation methods against exact analytical solutions, demonstrating rigorous mathematical grounding and error analysis.
 * **Diamond cubic lattice with basis (`diamond_cubic_lattice_basis.py`):** a crystallography simulation that models and visualizes a diamond cubic crystal structure using conventional lattice vectors and an atomic basis. It bridges quantum mechanics and solid-state physics by demonstrating spatial coordinate transformations and periodic boundary representations in 3D space.
 
