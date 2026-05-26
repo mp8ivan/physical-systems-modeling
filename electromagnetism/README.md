@@ -9,7 +9,7 @@ This directory contains Python implementations focused on solving complex differ
 * **Poisson equation solver (`poisson_equation_solver.py`):** numerical method implementation to solve partial differential equations (PDEs) over spatial grids, calculating and visualizing electrostatic potential distributions.
 
 ## Technical stack
-* **Python 3**
+* **Python 3**.
 * **SciPy:** advanced mathematical integration and ODE solvers (`scipy.integrate`).
 * **NumPy:** vectorized operations, matrix manipulations and spatial mesh generation.
 * **Matplotlib:** 2D and 3D visualization of physical fields and trajectories.
