@@ -12,5 +12,5 @@ This directory contains Python scripts dedicated to processing astronomical data
 ## Technical stack
 * **Python 3**.
 * **Astropy:** FITS file handling and astronomical data structuring.
-* **SciPy:** Numerical interpolation and scientific computing.
-* **NumPy & Matplotlib:** Matrix manipulation and data visualization.
+* **SciPy:** numerical interpolation and scientific computing.
+* **NumPy & Matplotlib:** matrix manipulation and data visualization.
